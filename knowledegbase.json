@@ -1,0 +1,88 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": ""
+    },
+    {
+      "question": "hey there",
+      "answer": "\tpython -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\""
+    },
+    {
+      "question": "python -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\"",
+      "answer": "python -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\""
+    },
+    {
+      "question": "hi",
+      "answer": " hello"
+    },
+    {
+      "question": "what",
+      "answer": " python -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\""
+    },
+    {
+      "question": "what are you made for?",
+      "answer": "\tpython -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\"python -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\""
+    },
+    {
+      "question": "hey",
+      "answer": " hello, how can I help you?"
+    },
+    {
+      "question": "can you help me?",
+      "answer": " Yes, how can I help you?"
+    },
+    {
+      "question": "achha",
+      "answer": " skip"
+    },
+    {
+      "question": "The QR code is not working",
+      "answer": " Please check your internet connection and try scanning the QR code from multiple devices. If it still does not work, Type : 1"
+    },
+    {
+      "question": "1",
+      "answer": " I have reported your query of 'QR not working' to the respective club, please be patient, you will be notified as soon as the query is resolved. "
+    },
+    {
+      "question": "There is a payment issue",
+      "answer": " Please check your internet connection, bank server response and banking credentials"
+    },
+    {
+      "question": " Please check your internet connection, bank server response and banking credentials, if there is still any issue, Type : 2",
+      "answer": " 2"
+    },
+    {
+      "question": "2",
+      "answer": " we have reported your query of 'Payment issue' to the respective club, please wait for a while, you will be notified as soon as the problem is resolved."
+    },
+    {
+      "question": "cars",
+      "answer": " cars are nice"
+    },
+    {
+      "question": "",
+      "answer": "python -u \"c:\\Users\\Asus\\OneDrive\\Documents\\VSC\\output\\.vscode\\Jupyter\\cb.py\""
+    },
+    {
+      "question": "query resolved",
+      "answer": " I am glad to hear that. Enjoy your event"
+    },
+    {
+      "question": "what is your purpose?",
+      "answer": " I am a virtual assistance chatbot, made to help students facing problems in event registrations."
+    },
+    {
+      "question": "thankyou",
+      "answer": "thankyou"
+    },
+    {
+      "question": "problem solved",
+      "answer": " I am glad to hear that. Enjoy your event."
+    },
+    {
+      "question": "what do we want in pe1?",
+      "answer": "S Grade"
+    }
+  ]
+}
